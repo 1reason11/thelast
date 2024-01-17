@@ -1,5 +1,7 @@
 {
   "SendTraffic" : false,
+  "GameLink" : "google"
+  "SendTrafficImage" : "https://github.com/1reason11/thelast/blob/main/image-json.jpg?raw=true"
 
 } 
   
